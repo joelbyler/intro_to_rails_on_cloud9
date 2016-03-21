@@ -10,15 +10,14 @@
 
 ## Steps
 ### Step 1
-Type this in the terminal to start the Interactive Ruby Shell, a program which lets you try out Ruby code:
+Type this in the bash tab to start the Interactive Ruby Shell, a program which lets you try out Ruby code:
 ```shell
 irb
 ```
 
 Yours might look different, but it should look something like this:
-```shell
-irb(main):001:0>
-```
+  ![irb running](images/irb.png)
+
 ### Step 2
 Next try some simple math that's built into Ruby. Type these lines into IRB:
 ```ruby
