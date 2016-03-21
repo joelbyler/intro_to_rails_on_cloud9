@@ -61,7 +61,7 @@ Let's take a closer look at some of the files Rails created:
 * `app/views/topics/index.html.erb`
 
   * This is the code for the page that lists all the topics.
-  * Index is the name given to the "default" page for a web site or a section of a web site. When you navigate to http://localhost:3000/topics the topics index page is what is sent to your computer.
+  * Index is the name given to the "default" page for a web site or a section of a web site. When you navigate to `/topics` the topics index page is what is sent to your computer.
 
 * `app/views/topics/show.html.erb`
 

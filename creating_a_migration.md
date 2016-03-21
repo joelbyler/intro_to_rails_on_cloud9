@@ -16,7 +16,7 @@ The suggestotron has a list of topics that people can vote on. We'll store our t
 
 ## Steps
 ### Step 1
-Type this in the terminal:
+Type this in the terminal (bash):
 ```bash
 rails generate scaffold topic title:string description:text
 ```
@@ -38,7 +38,7 @@ This tells Rails to update the database to include a table for our new model.
 ## Explanation
 __Rake__
 
-`rake` (__r__uby m__ake__) is a tool that allows you to run small Ruby programs (tasks) that you use often in your application.
+`rake` (__r__ uby m __ake__) is a tool that allows you to run small Ruby programs (tasks) that you use often in your application.
 
 Here, `rake db:migrate` is a task provided by the Rails framework. It uses the migration file we just created (`db/migrate/201xxxxxxxxxxx_create_topics.rb`) to change the database. Database migration files can be crucial to code collaboration.
 
