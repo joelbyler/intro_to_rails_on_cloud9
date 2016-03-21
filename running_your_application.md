@@ -18,6 +18,7 @@ Look for a little rectangular tool tip box in the lower right hand corner of the
 
 ### Step 3
 This will open a new browser tab where you can see your web app actually running!
+![Welcome aboard app running in browser](images/welcome_aboard.png)
 
 ### Step 4
 You can stop your app from running by pressing the `Stop` button with the red square next to it.
