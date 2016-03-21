@@ -148,4 +148,4 @@ Try changing this method to say what your favorite fruit is.
 ***IMPORTANT:*** Before you move on to the next step you must exit IRB by typing 'exit'
 
 ## Next Step:
-Go on to Add The Project To A Git Repo
+Go on to [Running Your Application](running_your_application.md)
