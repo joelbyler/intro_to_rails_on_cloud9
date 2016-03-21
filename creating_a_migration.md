@@ -49,4 +49,4 @@ You can run rake -T to see a list of all the rake commands your app currently re
 ---
 
 ## Next Step:
-Go on to CRUD With Scaffolding
+Go on to [CRUD With Scaffolding](CRUD_with_scaffolding.md)
