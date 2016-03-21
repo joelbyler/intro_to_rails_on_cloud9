@@ -17,7 +17,10 @@ Look for a little rectangular tool tip box in the lower right hand corner of the
 ![Running project feedbabck in Ruby on Rails tab](images/running_project_feedback.png)
 
 ### Step 3
-This will open a new browser tab where you can see your web app actually running!
+This will open a new browser tab where you can see your web app actually running!  
+
+It should look something like this:
+
 ![Welcome aboard app running in browser](images/welcome_aboard.png)
 
 ### Step 4

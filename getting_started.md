@@ -6,12 +6,12 @@ Let's get started! By the end of this step, we'll have a brand-spankin'-new (emp
 ## Steps
 ### Step 1
 
-Login to cloud9
+Login to [cloud9](https://c9.io/)
 
 __Note__: This may require you to create a new account. The basic account is free, and all you should need for this example
 
 ### Step 2
-Navigate to your dashboard (if you're not already there) and cick 'Create a new workspace'
+Navigate to your dashboard (if you're not already there) and click `Create a new workspace`
 
 ### Step 3
 * Project name will be `suggestotron`
@@ -27,7 +27,13 @@ Navigate to your dashboard (if you're not already there) and cick 'Create a new 
 ### Step 5
 * Click on the `Create workspace` button
 
-You can see that cloud9 new created a lot directories and files. The ones we want to focus on today are:
+At this point the cloud9 servers will start to generate a workspace for your project.  __This can take a little while, be patient__
+
+When it finishes, you should see that cloud9 has created a lot directories and files.
+
+![New workspace screenshot](images/default_folders.png)
+
+The ones we want to focus on today are:
 
 File/Folder	| Purpose
 ----------- | --------
