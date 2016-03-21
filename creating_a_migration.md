@@ -2,11 +2,11 @@
 
 ## Goals
 
-  |Topics     |
-  |-----------|
-  |id         |
-  |title      |
-  |description|
+  Topics     |
+  -----------|
+  id         |
+  title      |
+  description|
 
 The suggestotron has a list of topics that people can vote on. We'll store our topics in the database. In this step you'll do the following:
 
