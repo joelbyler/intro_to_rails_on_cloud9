@@ -3,10 +3,10 @@
 ## Goals
 At the core, most database driven web sites are the same. They need to store records and provide a way to do the following:
 
-* __C__reate new records in the database
-* __R__ead or show the records in the database
-* __U__pdate existing records
-* __D__estroy or delete records
+* __C__ reate new records in the database
+* __R__ ead or show the records in the database
+* __U__ pdate existing records
+* __D__ estroy or delete records
 
 Because these 4 actions (CRUD) are so common, Rails includes the scaffold command to make creating them easier.
 
