@@ -73,4 +73,4 @@ Now you should see something like nothing to commit, working directory clean whi
 By checking your application into git now, you're creating a record of your starting point. Whenever you make a change during today's workshop, we'll add it to git before moving on. This way, if anything ever breaks, or you make a change you don't like, you can use git as an all-powerful "undo" technique. But that only works when you remember to commit early and often!
 
 Next Step:
-Go on to Creating A Migration
+Go on to [Creating A Migration](creating_a_migration.md)
