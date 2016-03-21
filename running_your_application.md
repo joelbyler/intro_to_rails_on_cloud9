@@ -32,4 +32,4 @@ The `Run Project` button will start your application running on the public cloud
 This provides a very simple means to see your changes before you commit and push them to Heroku.
 
 Next Step:
-Go on to Creating A Migration
+Go on to [Add the project to a git repository](add_the_project_to_a_git_repo.md)

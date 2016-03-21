@@ -58,14 +58,15 @@ If you can do that, you are probably good to go.
 ## Working Effectively and Efficiently
 We highly recommend you do the following:
 
-* Bring up your terminal and open 2 tabs:
-  * One is for regular terminal stuffs
-  * One will be for IRB (a.k.a. Rails console). We'll explain later.
 * Open your browser fresh or hide any windows you already have open.
-  * Bring up one window with two tabs
+  * Bring up one window with three tabs
   * One for this content
-  * One for interacting with your app.
-* Open your text editor and don't close it.
+  * One for interacting with your app
+  * One for the cloud9 browser based IDE
+* Bring up your terminal and open 2 tabs:
+  * One is for regular terminal stuff
+  * One will be for IRB (a.k.a. Rails console). We'll explain later.
+  * __NOTE__: in cloud9, this may be labelled `bash`. If you don't see any tabs with the title of `bash` on them, you can open a new tab under the cloud9 `Window` menu and choose `New Terminal`
 * Hide all extra applications. Turn off Twitter, Facebook, IM, and all other distractions.
 
 By minimizing the number of things you interact with, you reduce the amount of time spent switching between them and the context lost as you work through the lessons. Having 50 tabs open in your web browser gets confusing.
@@ -95,4 +96,4 @@ Details of what the steps actually did, explaining the cause and effect.
 ---
 
 ## Next Step:
-Go on to [Ruby Language](getting_started.md)
+Go on to [Getting started](getting_started.md)
