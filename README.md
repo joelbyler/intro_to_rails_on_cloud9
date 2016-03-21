@@ -10,7 +10,7 @@ To teach you Ruby on Rails we are going to use a "Real World" example. You've de
 
 You've sketched up an initial screenshot of what you want it to look like:
 
-![Browser window with topic titles that can be voted on, ordered by number of votes](/images/finished_app.png)
+![Browser window with topic titles that can be voted on, ordered by number of votes](images/finished_app.png)
 
 ## Meta-Goal
 
