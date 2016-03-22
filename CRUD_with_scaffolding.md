@@ -86,4 +86,4 @@ Let's take a closer look at some of the files Rails created:
   * If you look you'll see a method (a line beginning with def) for each of the views listed above (except `_form.html.erb`)
 
 ## Next Step:
-Go on to Setting The Default Page
+Go on to [Setting The Default Page](setting_the_default_page.md)
