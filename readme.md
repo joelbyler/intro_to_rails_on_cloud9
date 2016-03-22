@@ -36,11 +36,12 @@ This is just a rough guideline, not a mandate. Some steps you'll go over and som
 
 We're going to be working with:
 
-* Ruby 2.1 or 2.2 installed via RVM (Mac or Linux) or RailsInstaller (Windows)
+* The Cloud9 online editor
+* Ruby 2.3, thanks to cloud9
 * Rails 4.2.x
 * Bundler
+* Rake
 * SQLite
-* The text editor of your choice
 
 Everything should be set up the night before during our install-fest. Please ensure you have everything working before you show up for RailsBridge on Saturday.
 

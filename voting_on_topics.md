@@ -11,7 +11,7 @@ topic_id |
 Every topic in suggestotron can be voted on. In order to count votes, we need to record votes. We'll add that table now.
 
 ## Steps
-Type this in the terminal (bash):
+Type this in the bash tab (aka terminal):
 ```bash
 rails generate model vote topic_id:integer
 rake db:migrate

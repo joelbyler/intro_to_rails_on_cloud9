@@ -49,7 +49,7 @@ fruits = ["kiwi", "strawberry", "plum"]
 Here we're using the variable `fruits` to hold a collection of fruit names.
 
 ### Step 6
-Type this in the terminal:
+Type this in the bash tab (aka terminal):
 ```ruby
 fruits = fruits + ["orange"]
 fruits = fruits - ["kiwi"]

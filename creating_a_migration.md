@@ -16,7 +16,8 @@ The suggestotron has a list of topics that people can vote on. We'll store our t
 
 ## Steps
 ### Step 1
-Type this in the terminal (bash):
+Type this in the bash tab (aka terminal):
+
 ```bash
 rails generate scaffold topic title:string description:text
 ```
