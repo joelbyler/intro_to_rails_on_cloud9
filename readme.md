@@ -1,3 +1,6 @@
+__IMPORTANT__: this material has been adapted from [railsbridge.org](http://docs.railsbridge.org/intro-to-rails/) to work on the [cloud9 IDE](http://c9.io)
+
+
 # Intro To Rails
 
 ## Goal

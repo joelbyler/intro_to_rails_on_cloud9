@@ -67,4 +67,4 @@ $ rails console
 `app` is a special object that represents your entire application. You can ask it about its routes (as we just did), play with its database connections, or make pseudo-web requests against it with `get` or `post` (and lots more).
 
 ## Next Step:
-Go on to Voting On Topics
+Go on to [Voting On Topics](voting_on_topics.md)
