@@ -69,7 +69,7 @@ Type this in the terminal:
 ```bash
 git status
 ```
-Now you should see something like nothing to commit, working directory clean which means you've committed all of your changes.
+Now you should see something like `nothing to commit`, working directory clean which means you've committed all of your changes.
 
 ## Explanation
 By checking your application into git now, you're creating a record of your starting point. Whenever you make a change during today's workshop, we'll add it to git before moving on. This way, if anything ever breaks, or you make a change you don't like, you can use git as an all-powerful "undo" technique. But that only works when you remember to commit early and often!
