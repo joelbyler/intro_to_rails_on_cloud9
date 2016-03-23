@@ -52,7 +52,7 @@ git status
 Now you should see a bunch of files listed under Changes to be committed.
 
 ### Step 5
-Type this in the terminal:
+Type this in the terminal (__be sure to use the -m parameter in this command__):
 ```bash
 git commit -m "Added all the things"
 ```
@@ -61,6 +61,8 @@ git commit -m "Added all the things"
 This is done in two steps so you can group multiple changes together.
 
 `-m "Added all the things"` is just a shortcut to say what your commit message is. You can skip that part and git will bring up an editor to fill out a more detailed message.
+
+__IMPORTANT__: if you forget the -m parameter when performing this step on cloud9, you will end up in the vim editor.  To get out of this editor you should be able to type in `:q!` to get out without making any changes.  If that doesn't work, you may be in INSERT mode (look for INSERT in the lower right hand corner of the `bash` tab), you can use the escape (or ESC) key to get out of this mode and try `:q!` again
 
 ### Step 6
 Type this in the terminal:
