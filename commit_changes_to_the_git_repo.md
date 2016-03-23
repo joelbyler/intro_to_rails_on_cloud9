@@ -56,4 +56,4 @@ Now you should see something like `nothing to commit`, working directory clean w
 By continually checking your code changes into git, you're maintaining a record of your changes.  This way, if anything ever breaks, or you make a change you don't like, you can use git as an all-powerful "undo" technique. But that only works when you remember to __commit early and often__!
 
 ## Next Step:
-Go on to [Creating A Migration](creating_a_migration.md)
+Go on to [Credits and Next Steps](credits_and_next_steps.md)
