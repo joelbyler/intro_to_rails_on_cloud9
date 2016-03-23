@@ -21,5 +21,6 @@ rake db:migrate
 * The only thing really different is the integer we added called `topic_id`.
 * `topic_id` is the data we need to draw the line between votes and topics.
 * We didn't generate a full scaffold this time because we aren't going to do the full CRUD for votes; they're just going to be considered part of topics as-is.
+
 ## Next Step:
-Go on to Hooking Up Votes And Topics
+Go on to [Hooking Up Votes And Topics](hooking_up_votes_and_topics.md)
