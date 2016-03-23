@@ -28,3 +28,4 @@ If you got all the way through Suggestotron with some time to spare, here's some
 * Probably time for the closing presentation.
 * After that, start a project, tutorial, and come back again!
 * All our favorite resources can be found on the RailsBridge site: [http://railsbridge.org/learn/resources](http://railsbridge.org/learn/resources)
+* Also you can get a deeper look into the world of Ruby on Rails by reading the [Rails Tutorial book online](https://www.railstutorial.org/book/) which includes special guidance for folks who are using the cloud9 IDE to develop their Rails applications
