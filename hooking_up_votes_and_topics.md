@@ -99,4 +99,4 @@ Associations (usually) come in pairs.
 It can still be important to clean up after yourself! `dependent: :destroy` on `has_many :votes` means when a __Topic__ gets destroyed, all the __votes__ that correspond to it will be destroyed, too. Without `dependent :destroy`, those votes would live on the database forever.
 
 Next Step:
-Go on to Allow People To Vote
+Go on to [Allow People To Vote](allow_people_to_vote.md)
