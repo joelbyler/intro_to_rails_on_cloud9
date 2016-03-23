@@ -36,4 +36,4 @@ Now save your file and try reloading in your browser to see the changes.
 * The second change we made was to make the link text 'Delete' instead of 'Destroy'.
 
 ## Next Step:
-Go on to [Commit changes to git repository](commit_changes_to_git.md)
+Go on to [Commit changes to git repository](commit_changes_to_the_git_repo.md)
