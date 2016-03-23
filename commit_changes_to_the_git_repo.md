@@ -1,4 +1,4 @@
-# Add The Project To A Git Repo
+# Commit Your Latest Changes To A Git Repo
 
 ## Goals
 * Commit your recent changes to the git repository
