@@ -15,6 +15,8 @@ Type this in the bash tab to start the Interactive Ruby Shell, a program which l
 irb
 ```
 
+* __NOTE__: in cloud9, we are looking for a tab that is labelled `bash`. If you don't see any tabs with the title of `bash` on them, you can open a new tab under the cloud9 `Window` menu and choose `New Terminal`
+
 Yours might look different, but it should look something like this:
   ![irb running](images/irb.png)
 

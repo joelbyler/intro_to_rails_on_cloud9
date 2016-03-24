@@ -37,25 +37,11 @@ This is just a rough guideline, not a mandate. Some steps you'll go over and som
 We're going to be working with:
 
 * The Cloud9 online editor
-* Ruby 2.3, thanks to cloud9
-* Rails 4.2.x
-* Bundler
-* Rake
-* SQLite
-
-Everything should be set up the night before during our install-fest. Please ensure you have everything working before you show up for RailsBridge on Saturday.
-
-You can verify that you have everything working by trying this out in your terminal:
-
-```ruby
-$ irb
->> 1 + 2
-=> 3
->> require "active_support"
-=> true
->> exit
-$
-```
+  * you'll need have an account on [https://c9.io/](https://c9.io/)
+* Heroku (optional)
+  * you can create an account on [https://www.heroku.com/](https://www.heroku.com/)
+* Github (optional)
+  * you can create an account on [https://github.com/](https://github.com/)
 
 If you can do that, you are probably good to go.
 
@@ -67,10 +53,6 @@ We highly recommend you do the following:
   * One for this content
   * One for interacting with your app
   * One for the cloud9 browser based IDE
-* Bring up your terminal and open 2 tabs:
-  * One is for regular terminal stuff
-  * One will be for IRB (a.k.a. Rails console). We'll explain later.
-  * __NOTE__: in cloud9, this may be labelled `bash`. If you don't see any tabs with the title of `bash` on them, you can open a new tab under the cloud9 `Window` menu and choose `New Terminal`
 * Hide all extra applications. Turn off Twitter, Facebook, IM, and all other distractions.
 
 By minimizing the number of things you interact with, you reduce the amount of time spent switching between them and the context lost as you work through the lessons. Having 50 tabs open in your web browser gets confusing.
