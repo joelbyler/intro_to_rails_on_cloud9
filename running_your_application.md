@@ -1,4 +1,4 @@
-# Running Your Application Locally
+# Running Your Application on Cloud9
 
 ## Goals
 Let's fire up the application on the cloud9 servers
