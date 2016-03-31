@@ -16,7 +16,7 @@ Start running your project using the 'Run Project' button
 
   ![run project](images/run_project.png)
 
-__OR__ when running locally, instead of on cloud8 you can type this into your local terminal to start the rails server: `rails server`
+__OR__ when running locally, instead of on cloud9 you can type this into your local terminal to start the rails server: `rails server`
 
 ### Step 2
 Point your browser to the link displayed in the __Cloud9 Help__ tooltip box.  Mine is `https://suggestotron-joelbyler.c9users.io/`, but this time add `/topics` to the end of the url.
