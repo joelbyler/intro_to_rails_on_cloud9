@@ -66,7 +66,7 @@ Edit app/views/topics/index.html.erb so that the bottom loop looks like this:
 * `method: :post` ensures we do the create action of CRUD, not the read action.
 
 ### Step 4: Confirm your changes in the browser
-Go back to and refrest the app in the otherweb browser and try out the latest changes.
+Go back to and refresh the app in the other web browser and try out the latest changes.
 
 Revel in the fact that you didn't have to restart the server to see these changes. Hawt, no?
 
